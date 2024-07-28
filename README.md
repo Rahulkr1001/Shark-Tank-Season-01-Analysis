@@ -1,5 +1,8 @@
 # Shark-Tank-Season-01-Analysis
 
+# Overview of Shark Tank Investments
+The dashboard provides a comprehensive analysis of Shark Tank investments, detailing total investment amounts, pitch counts, and domain-specific data. Notably, the total investment amounts to ₹336.20 million across 117 pitches, with investments spread over 11 distinct domains. The highest individual investment recorded is ₹15 million. The brand counts according to investments show a varied distribution, indicating a wide range of brands receiving funding.
+
 ![dashboard_Shark_Tank_page-0001](https://github.com/user-attachments/assets/2978fca9-bf6e-4902-ad64-8e1c123ce848)
 
 
